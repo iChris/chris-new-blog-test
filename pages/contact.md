@@ -1,12 +1,10 @@
 ---
-layout: layouts/contact.njk
 title: Get in touch
+date: 2018-12-26T00:00:00.000Z
+permalink: /contact/index.html
+navtitle: Contact
 tags:
   - nav
-navtitle: Contact
-section: contact
-date: 2018-01-01
-permalink: /contact/index.html
 ---
 The contact form on this page uses
 [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
