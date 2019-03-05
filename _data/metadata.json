@@ -1,9 +1,9 @@
 {
-  "title": "Eleventy Netlify Boilerplate",
-  "url": "https://eleventy-netlify-boilerplate.netlify.com",
+  "title": "Eleventy Netlify Basic Blog Demo",
+  "url": "https://cocky-banach-d6706e.netlify.com/blog/",
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "github": "https://github.com/danurbanowicz"
+    "name": "Chris Enns",
+    "email": "chris@lemonproductions.ca",
+    "github": "https://github.com/iChris"
   }
 }
